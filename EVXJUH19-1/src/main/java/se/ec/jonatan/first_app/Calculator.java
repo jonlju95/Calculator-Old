@@ -63,7 +63,6 @@ public class Calculator {
 		for(int i=0; i<calc.size(); i++) {
 			result += calc.get(i);
 		}
-		System.out.println(result);
 		return result;
 	}
 	
